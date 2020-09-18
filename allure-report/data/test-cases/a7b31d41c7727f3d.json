@@ -1,23 +1,23 @@
 {
-  "uid" : "4f7322313260a3ef",
-  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#7)",
-  "fullName" : "Busca por unidade: Busca por unidade utilizando o filtro por facilidade, Examples (#7)",
-  "historyId" : "7df8354120b6ca975faf81efe0dfa42f",
+  "uid" : "a7b31d41c7727f3d",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#5)",
+  "fullName" : "Busca por unidade: Busca por unidade utilizando o filtro por facilidade, Examples (#5)",
+  "historyId" : "15a7d7cf3491cb4561289afdab7820f4",
   "time" : {
-    "start" : 1600455308314,
-    "stop" : 1600455309988,
-    "duration" : 1674
+    "start" : 1600458977088,
+    "stop" : 1600458984724,
+    "duration" : 7636
   },
-  "description" : "Location - features/requirements/busca_por_unidade.feature:29:13",
-  "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:29:13",
+  "description" : "Location - features/requirements/busca_por_unidade.feature:27:13",
+  "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:27:13",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ {
     "name" : "cucumber.rb:14",
     "time" : {
-      "start" : 1600455308314,
-      "stop" : 1600455308314,
+      "start" : 1600458977088,
+      "stop" : 1600458977088,
       "duration" : 0
     },
     "status" : "passed",
@@ -31,8 +31,8 @@
   }, {
     "name" : "cucumber.rb:22",
     "time" : {
-      "start" : 1600455308314,
-      "stop" : 1600455308314,
+      "start" : 1600458977088,
+      "stop" : 1600458977088,
       "duration" : 0
     },
     "status" : "passed",
@@ -46,9 +46,9 @@
   }, {
     "name" : "hooks.rb:1",
     "time" : {
-      "start" : 1600455308314,
-      "stop" : 1600455308418,
-      "duration" : 104
+      "start" : 1600458977088,
+      "stop" : 1600458978372,
+      "duration" : 1284
     },
     "status" : "passed",
     "steps" : [ ],
@@ -60,15 +60,15 @@
     "hasContent" : false
   } ],
   "testStage" : {
-    "description" : "Location - features/requirements/busca_por_unidade.feature:29:13",
-    "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:29:13",
+    "description" : "Location - features/requirements/busca_por_unidade.feature:27:13",
+    "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:27:13",
     "status" : "passed",
     "steps" : [ {
       "name" : "Dado que \"Lucas\" acessou a aba de unidades atráves da página principal",
       "time" : {
-        "start" : 1600455308418,
-        "stop" : 1600455309289,
-        "duration" : 871
+        "start" : 1600458978372,
+        "stop" : 1600458982215,
+        "duration" : 3843
       },
       "status" : "passed",
       "steps" : [ ],
@@ -81,16 +81,16 @@
     }, {
       "name" : "E ele utiliza o filtro por facilidade selecionando os seguintes itens:",
       "time" : {
-        "start" : 1600455309289,
-        "stop" : 1600455309669,
-        "duration" : 380
+        "start" : 1600458982215,
+        "stop" : 1600458983482,
+        "duration" : 1267
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "d1615845c5b6da69",
+        "uid" : "57b9a557c7723bf7",
         "name" : "data-table",
-        "source" : "d1615845c5b6da69.csv",
+        "source" : "57b9a557c7723bf7.csv",
         "type" : "text/csv",
         "size" : 30
       } ],
@@ -102,9 +102,9 @@
     }, {
       "name" : "Quando ele seleciona a opção de Ver Detalhes da primeira unidade apresentada",
       "time" : {
-        "start" : 1600455309669,
-        "stop" : 1600455309889,
-        "duration" : 220
+        "start" : 1600458983483,
+        "stop" : 1600458984488,
+        "duration" : 1005
       },
       "status" : "passed",
       "steps" : [ ],
@@ -117,9 +117,9 @@
     }, {
       "name" : "Então as mesmas informações apresentadas no card anterior devem ser apresentados",
       "time" : {
-        "start" : 1600455309889,
-        "stop" : 1600455309917,
-        "duration" : 28
+        "start" : 1600458984488,
+        "stop" : 1600458984520,
+        "duration" : 32
       },
       "status" : "passed",
       "steps" : [ ],
@@ -138,11 +138,11 @@
     "hasContent" : true
   },
   "afterStages" : [ {
-    "name" : "hooks.rb:6",
+    "name" : "hooks.rb:7",
     "time" : {
-      "start" : 1600455309917,
-      "stop" : 1600455309919,
-      "duration" : 2
+      "start" : 1600458984520,
+      "stop" : 1600458984724,
+      "duration" : 204
     },
     "status" : "passed",
     "steps" : [ ],
@@ -155,9 +155,9 @@
   }, {
     "name" : "cucumber.rb:10",
     "time" : {
-      "start" : 1600455309919,
-      "stop" : 1600455309988,
-      "duration" : 69
+      "start" : 1600458984724,
+      "stop" : 1600458984724,
+      "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
@@ -182,7 +182,7 @@
     "value" : "Busca por unidade"
   }, {
     "name" : "story",
-    "value" : "Busca por unidade utilizando o filtro por facilidade, Examples (#7)"
+    "value" : "Busca por unidade utilizando o filtro por facilidade, Examples (#5)"
   }, {
     "name" : "testClass",
     "value" : "busca_por_unidade"
@@ -197,7 +197,7 @@
     "value" : "normal"
   }, {
     "name" : "thread",
-    "value" : "70277975433420"
+    "value" : "70180818575580"
   }, {
     "name" : "host",
     "value" : "Diogos-MacBook-Pro.local"
@@ -210,13 +210,13 @@
   } ],
   "parameters" : [ {
     "name" : "item1",
-    "value" : ""
+    "value" : "Bicicletário e vaga verde"
   }, {
     "name" : "item2",
     "value" : ""
   }, {
     "name" : "item3",
-    "value" : "Atendimento aos domingos"
+    "value" : ""
   } ],
   "links" : [ ],
   "hidden" : false,
@@ -227,6 +227,6 @@
     "categories" : [ ],
     "tags" : [ "positivo", "busca_por_unidade" ]
   },
-  "source" : "4f7322313260a3ef.json",
-  "parameterValues" : [ "", "", "Atendimento aos domingos" ]
+  "source" : "a7b31d41c7727f3d.json",
+  "parameterValues" : [ "Bicicletário e vaga verde", "", "" ]
 }

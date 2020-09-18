@@ -1,4 +1,10 @@
-# WebTest - Fleury
+### Para ver o último resultado, basta baixar o projeto e executar os seguintes comandos:
+```
+allure generate reports/allure-results --clean
+allure open
+```
+
+# WebTest
 
 This is a automated test project on Ruby language with Selenium Webdriver to automate web tests.
 This project uses the Page Object Pattern, so it provides a cleaner and easier code to maintain.

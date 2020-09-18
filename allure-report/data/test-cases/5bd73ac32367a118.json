@@ -1,24 +1,24 @@
 {
-  "uid" : "fd34a94c1725d96b",
-  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#3)",
-  "fullName" : "Busca por unidade: Busca por unidade utilizando o filtro por facilidade, Examples (#3)",
-  "historyId" : "21d7e017fd09ffc8f684343a792975ae",
+  "uid" : "5bd73ac32367a118",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#1)",
+  "fullName" : "Busca por unidade: Busca por unidade utilizando o filtro por facilidade, Examples (#1)",
+  "historyId" : "4e146863523a788d6e57ecf9cb40f481",
   "time" : {
-    "start" : 1600455300077,
-    "stop" : 1600455302821,
-    "duration" : 2744
+    "start" : 1600458950006,
+    "stop" : 1600458957029,
+    "duration" : 7023
   },
-  "description" : "Location - features/requirements/busca_por_unidade.feature:25:13",
-  "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:25:13",
+  "description" : "Location - features/requirements/busca_por_unidade.feature:23:13",
+  "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:23:13",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ {
     "name" : "cucumber.rb:14",
     "time" : {
-      "start" : 1600455300077,
-      "stop" : 1600455300077,
-      "duration" : 0
+      "start" : 1600458950051,
+      "stop" : 1600458950052,
+      "duration" : 1
     },
     "status" : "passed",
     "steps" : [ ],
@@ -31,8 +31,8 @@
   }, {
     "name" : "cucumber.rb:22",
     "time" : {
-      "start" : 1600455300077,
-      "stop" : 1600455300077,
+      "start" : 1600458950052,
+      "stop" : 1600458950052,
       "duration" : 0
     },
     "status" : "passed",
@@ -46,9 +46,9 @@
   }, {
     "name" : "hooks.rb:1",
     "time" : {
-      "start" : 1600455300077,
-      "stop" : 1600455300182,
-      "duration" : 105
+      "start" : 1600458950052,
+      "stop" : 1600458951613,
+      "duration" : 1561
     },
     "status" : "passed",
     "steps" : [ ],
@@ -60,15 +60,15 @@
     "hasContent" : false
   } ],
   "testStage" : {
-    "description" : "Location - features/requirements/busca_por_unidade.feature:25:13",
-    "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:25:13",
+    "description" : "Location - features/requirements/busca_por_unidade.feature:23:13",
+    "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:23:13",
     "status" : "passed",
     "steps" : [ {
       "name" : "Dado que \"Lucas\" acessou a aba de unidades atráves da página principal",
       "time" : {
-        "start" : 1600455300182,
-        "stop" : 1600455300773,
-        "duration" : 591
+        "start" : 1600458951614,
+        "stop" : 1600458954741,
+        "duration" : 3127
       },
       "status" : "passed",
       "steps" : [ ],
@@ -81,16 +81,16 @@
     }, {
       "name" : "E ele utiliza o filtro por facilidade selecionando os seguintes itens:",
       "time" : {
-        "start" : 1600455300773,
-        "stop" : 1600455301610,
-        "duration" : 837
+        "start" : 1600458954745,
+        "stop" : 1600458956235,
+        "duration" : 1490
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "ccdc7da0fa7dc667",
+        "uid" : "41e870d85751897b",
         "name" : "data-table",
-        "source" : "ccdc7da0fa7dc667.csv",
+        "source" : "41e870d85751897b.csv",
         "type" : "text/csv",
         "size" : 30
       } ],
@@ -102,9 +102,9 @@
     }, {
       "name" : "Quando ele seleciona a opção de Ver Detalhes da primeira unidade apresentada",
       "time" : {
-        "start" : 1600455301610,
-        "stop" : 1600455302688,
-        "duration" : 1078
+        "start" : 1600458956235,
+        "stop" : 1600458956795,
+        "duration" : 560
       },
       "status" : "passed",
       "steps" : [ ],
@@ -117,9 +117,9 @@
     }, {
       "name" : "Então as mesmas informações apresentadas no card anterior devem ser apresentados",
       "time" : {
-        "start" : 1600455302688,
-        "stop" : 1600455302740,
-        "duration" : 52
+        "start" : 1600458956795,
+        "stop" : 1600458956823,
+        "duration" : 28
       },
       "status" : "passed",
       "steps" : [ ],
@@ -138,11 +138,11 @@
     "hasContent" : true
   },
   "afterStages" : [ {
-    "name" : "hooks.rb:6",
+    "name" : "hooks.rb:7",
     "time" : {
-      "start" : 1600455302740,
-      "stop" : 1600455302742,
-      "duration" : 2
+      "start" : 1600458956823,
+      "stop" : 1600458957029,
+      "duration" : 206
     },
     "status" : "passed",
     "steps" : [ ],
@@ -155,9 +155,9 @@
   }, {
     "name" : "cucumber.rb:10",
     "time" : {
-      "start" : 1600455302742,
-      "stop" : 1600455302821,
-      "duration" : 79
+      "start" : 1600458957029,
+      "stop" : 1600458957029,
+      "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
@@ -182,7 +182,7 @@
     "value" : "Busca por unidade"
   }, {
     "name" : "story",
-    "value" : "Busca por unidade utilizando o filtro por facilidade, Examples (#3)"
+    "value" : "Busca por unidade utilizando o filtro por facilidade, Examples (#1)"
   }, {
     "name" : "testClass",
     "value" : "busca_por_unidade"
@@ -197,7 +197,7 @@
     "value" : "normal"
   }, {
     "name" : "thread",
-    "value" : "70277975433420"
+    "value" : "70180818575580"
   }, {
     "name" : "host",
     "value" : "Diogos-MacBook-Pro.local"
@@ -213,7 +213,7 @@
     "value" : "Bicicletário e vaga verde"
   }, {
     "name" : "item2",
-    "value" : ""
+    "value" : "Vacinação"
   }, {
     "name" : "item3",
     "value" : "Atendimento aos domingos"
@@ -227,6 +227,6 @@
     "categories" : [ ],
     "tags" : [ "positivo", "busca_por_unidade" ]
   },
-  "source" : "fd34a94c1725d96b.json",
-  "parameterValues" : [ "Bicicletário e vaga verde", "", "Atendimento aos domingos" ]
+  "source" : "5bd73ac32367a118.json",
+  "parameterValues" : [ "Bicicletário e vaga verde", "Vacinação", "Atendimento aos domingos" ]
 }

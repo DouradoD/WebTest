@@ -1,24 +1,24 @@
 {
-  "uid" : "be7d8eac4d64f461",
-  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#2)",
-  "fullName" : "Busca por unidade: Busca por unidade utilizando o filtro por facilidade, Examples (#2)",
-  "historyId" : "e333e25286deaef1f5f383b4e5f13803",
+  "uid" : "82f9c104fac66490",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#7)",
+  "fullName" : "Busca por unidade: Busca por unidade utilizando o filtro por facilidade, Examples (#7)",
+  "historyId" : "7df8354120b6ca975faf81efe0dfa42f",
   "time" : {
-    "start" : 1600455297882,
-    "stop" : 1600455300076,
-    "duration" : 2194
+    "start" : 1600458992164,
+    "stop" : 1600458998337,
+    "duration" : 6173
   },
-  "description" : "Location - features/requirements/busca_por_unidade.feature:24:13",
-  "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:24:13",
+  "description" : "Location - features/requirements/busca_por_unidade.feature:29:13",
+  "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:29:13",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ {
     "name" : "cucumber.rb:14",
     "time" : {
-      "start" : 1600455297882,
-      "stop" : 1600455297883,
-      "duration" : 1
+      "start" : 1600458992165,
+      "stop" : 1600458992165,
+      "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
@@ -31,8 +31,8 @@
   }, {
     "name" : "cucumber.rb:22",
     "time" : {
-      "start" : 1600455297883,
-      "stop" : 1600455297883,
+      "start" : 1600458992165,
+      "stop" : 1600458992165,
       "duration" : 0
     },
     "status" : "passed",
@@ -46,9 +46,9 @@
   }, {
     "name" : "hooks.rb:1",
     "time" : {
-      "start" : 1600455297883,
-      "stop" : 1600455297987,
-      "duration" : 104
+      "start" : 1600458992165,
+      "stop" : 1600458993416,
+      "duration" : 1251
     },
     "status" : "passed",
     "steps" : [ ],
@@ -60,15 +60,15 @@
     "hasContent" : false
   } ],
   "testStage" : {
-    "description" : "Location - features/requirements/busca_por_unidade.feature:24:13",
-    "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:24:13",
+    "description" : "Location - features/requirements/busca_por_unidade.feature:29:13",
+    "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:29:13",
     "status" : "passed",
     "steps" : [ {
       "name" : "Dado que \"Lucas\" acessou a aba de unidades atráves da página principal",
       "time" : {
-        "start" : 1600455297987,
-        "stop" : 1600455299213,
-        "duration" : 1226
+        "start" : 1600458993416,
+        "stop" : 1600458996561,
+        "duration" : 3145
       },
       "status" : "passed",
       "steps" : [ ],
@@ -81,16 +81,16 @@
     }, {
       "name" : "E ele utiliza o filtro por facilidade selecionando os seguintes itens:",
       "time" : {
-        "start" : 1600455299214,
-        "stop" : 1600455299767,
-        "duration" : 553
+        "start" : 1600458996561,
+        "stop" : 1600458997195,
+        "duration" : 634
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "841fb62d33d7d2b0",
+        "uid" : "ae4742ed09be098c",
         "name" : "data-table",
-        "source" : "841fb62d33d7d2b0.csv",
+        "source" : "ae4742ed09be098c.csv",
         "type" : "text/csv",
         "size" : 30
       } ],
@@ -102,9 +102,9 @@
     }, {
       "name" : "Quando ele seleciona a opção de Ver Detalhes da primeira unidade apresentada",
       "time" : {
-        "start" : 1600455299767,
-        "stop" : 1600455299976,
-        "duration" : 209
+        "start" : 1600458997195,
+        "stop" : 1600458998110,
+        "duration" : 915
       },
       "status" : "passed",
       "steps" : [ ],
@@ -117,9 +117,9 @@
     }, {
       "name" : "Então as mesmas informações apresentadas no card anterior devem ser apresentados",
       "time" : {
-        "start" : 1600455299976,
-        "stop" : 1600455300003,
-        "duration" : 27
+        "start" : 1600458998110,
+        "stop" : 1600458998141,
+        "duration" : 31
       },
       "status" : "passed",
       "steps" : [ ],
@@ -138,11 +138,11 @@
     "hasContent" : true
   },
   "afterStages" : [ {
-    "name" : "hooks.rb:6",
+    "name" : "hooks.rb:7",
     "time" : {
-      "start" : 1600455300003,
-      "stop" : 1600455300006,
-      "duration" : 3
+      "start" : 1600458998141,
+      "stop" : 1600458998336,
+      "duration" : 195
     },
     "status" : "passed",
     "steps" : [ ],
@@ -155,9 +155,9 @@
   }, {
     "name" : "cucumber.rb:10",
     "time" : {
-      "start" : 1600455300006,
-      "stop" : 1600455300075,
-      "duration" : 69
+      "start" : 1600458998336,
+      "stop" : 1600458998337,
+      "duration" : 1
     },
     "status" : "passed",
     "steps" : [ ],
@@ -182,7 +182,7 @@
     "value" : "Busca por unidade"
   }, {
     "name" : "story",
-    "value" : "Busca por unidade utilizando o filtro por facilidade, Examples (#2)"
+    "value" : "Busca por unidade utilizando o filtro por facilidade, Examples (#7)"
   }, {
     "name" : "testClass",
     "value" : "busca_por_unidade"
@@ -197,7 +197,7 @@
     "value" : "normal"
   }, {
     "name" : "thread",
-    "value" : "70277975433420"
+    "value" : "70180818575580"
   }, {
     "name" : "host",
     "value" : "Diogos-MacBook-Pro.local"
@@ -210,13 +210,13 @@
   } ],
   "parameters" : [ {
     "name" : "item1",
-    "value" : "Bicicletário e vaga verde"
+    "value" : ""
   }, {
     "name" : "item2",
-    "value" : "Vacinação"
+    "value" : ""
   }, {
     "name" : "item3",
-    "value" : ""
+    "value" : "Atendimento aos domingos"
   } ],
   "links" : [ ],
   "hidden" : false,
@@ -227,6 +227,6 @@
     "categories" : [ ],
     "tags" : [ "positivo", "busca_por_unidade" ]
   },
-  "source" : "be7d8eac4d64f461.json",
-  "parameterValues" : [ "Bicicletário e vaga verde", "Vacinação", "" ]
+  "source" : "82f9c104fac66490.json",
+  "parameterValues" : [ "", "", "Atendimento aos domingos" ]
 }
