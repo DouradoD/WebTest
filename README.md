@@ -11,7 +11,7 @@ These instructions below will get you a copy of the project up and running on yo
 
 - The project requires Ruby 2.6.3 
 
-After Ruby is installed, you have to install the gem "bundler" to, so you can download all of the Ruby libraries with it:
+After Ruby is installed, you have to install the gem "bundler" by command line, so you can download all of the Ruby libraries with it:
 ```
 gem install bundle
 ```
@@ -56,11 +56,5 @@ allure open
 * [Cucumber](https://www.seleniumhq.org/projects/webdriver/) - Collaboration tool that also allows to automate tests by using BDD style
 * [Selenium Webdriver](https://www.seleniumhq.org/projects/webdriver/) - Suite of tools to automate web browsers test across many platforms
 * [Capybara](https://github.com/teamcapybara/capybara) - Web-based test automation tool that simulates user scenarios and automates web testing.
-* [RSpec](http://rspec.info/) - Domain Specific Language testing tool to test Ruby Code
 * [Siteprism](https://github.com/natritmeyer/site_prism) - Used to be able to use Page Object Pattern on Capybara
 * [Bundler](https://bundler.io/) - Dependency Management
-
-
-cucumber --format AllureCucumber::CucumberFormatter --out
-allure generate reports/allure-results --clean
-allure open
