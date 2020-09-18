@@ -1,0 +1,100 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "requirements",
+    "children" : [ {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#1)",
+      "uid" : "bc13138443ff81b9",
+      "parentUid" : "562095fa1be3f3f2e4f080c3815cb844",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600455290076,
+        "stop" : 1600455297880,
+        "duration" : 7804
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Bicicletário e vaga verde", "Vacinação", "Atendimento aos domingos" ]
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#2)",
+      "uid" : "be7d8eac4d64f461",
+      "parentUid" : "562095fa1be3f3f2e4f080c3815cb844",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600455297882,
+        "stop" : 1600455300076,
+        "duration" : 2194
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Bicicletário e vaga verde", "Vacinação", "" ]
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#3)",
+      "uid" : "fd34a94c1725d96b",
+      "parentUid" : "562095fa1be3f3f2e4f080c3815cb844",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600455300077,
+        "stop" : 1600455302821,
+        "duration" : 2744
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Bicicletário e vaga verde", "", "Atendimento aos domingos" ]
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#4)",
+      "uid" : "c7f497e5eff3d5f8",
+      "parentUid" : "562095fa1be3f3f2e4f080c3815cb844",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600455302822,
+        "stop" : 1600455304741,
+        "duration" : 1919
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "", "Vacinação", "Atendimento aos domingos" ]
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#5)",
+      "uid" : "91118d1f6c099529",
+      "parentUid" : "562095fa1be3f3f2e4f080c3815cb844",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600455304742,
+        "stop" : 1600455306458,
+        "duration" : 1716
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Bicicletário e vaga verde", "", "" ]
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#6)",
+      "uid" : "1bd63ef3e1195450",
+      "parentUid" : "562095fa1be3f3f2e4f080c3815cb844",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600455306459,
+        "stop" : 1600455308313,
+        "duration" : 1854
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "", "Vacinação", "" ]
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#7)",
+      "uid" : "4f7322313260a3ef",
+      "parentUid" : "562095fa1be3f3f2e4f080c3815cb844",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600455308314,
+        "stop" : 1600455309988,
+        "duration" : 1674
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "", "", "Atendimento aos domingos" ]
+    } ],
+    "uid" : "562095fa1be3f3f2e4f080c3815cb844"
+  } ]
+}

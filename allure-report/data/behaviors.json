@@ -1,0 +1,128 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Busca por unidade",
+    "children" : [ {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#1)",
+      "children" : [ {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#1)",
+        "uid" : "bc13138443ff81b9",
+        "parentUid" : "11163fbd149c6e613f831f8f534df021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600455290076,
+          "stop" : 1600455297880,
+          "duration" : 7804
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Bicicletário e vaga verde", "Vacinação", "Atendimento aos domingos" ]
+      } ],
+      "uid" : "11163fbd149c6e613f831f8f534df021"
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#2)",
+      "children" : [ {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#2)",
+        "uid" : "be7d8eac4d64f461",
+        "parentUid" : "79003319378b2cac77ead2acccd4b6ca",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600455297882,
+          "stop" : 1600455300076,
+          "duration" : 2194
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Bicicletário e vaga verde", "Vacinação", "" ]
+      } ],
+      "uid" : "79003319378b2cac77ead2acccd4b6ca"
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#3)",
+      "children" : [ {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#3)",
+        "uid" : "fd34a94c1725d96b",
+        "parentUid" : "1f365717c1a3774a22fad568b9766134",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600455300077,
+          "stop" : 1600455302821,
+          "duration" : 2744
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Bicicletário e vaga verde", "", "Atendimento aos domingos" ]
+      } ],
+      "uid" : "1f365717c1a3774a22fad568b9766134"
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#4)",
+      "children" : [ {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#4)",
+        "uid" : "c7f497e5eff3d5f8",
+        "parentUid" : "1a0f41b35973cdabd3f874e512948733",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600455302822,
+          "stop" : 1600455304741,
+          "duration" : 1919
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "Vacinação", "Atendimento aos domingos" ]
+      } ],
+      "uid" : "1a0f41b35973cdabd3f874e512948733"
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#5)",
+      "children" : [ {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#5)",
+        "uid" : "91118d1f6c099529",
+        "parentUid" : "481e923fda1afc7fe66fd4dd0b1cfe42",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600455304742,
+          "stop" : 1600455306458,
+          "duration" : 1716
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Bicicletário e vaga verde", "", "" ]
+      } ],
+      "uid" : "481e923fda1afc7fe66fd4dd0b1cfe42"
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#6)",
+      "children" : [ {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#6)",
+        "uid" : "1bd63ef3e1195450",
+        "parentUid" : "a181acb55655d1faade3631a43fce158",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600455306459,
+          "stop" : 1600455308313,
+          "duration" : 1854
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "Vacinação", "" ]
+      } ],
+      "uid" : "a181acb55655d1faade3631a43fce158"
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#7)",
+      "children" : [ {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#7)",
+        "uid" : "4f7322313260a3ef",
+        "parentUid" : "99a35f027d328067aad4703716a90eea",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600455308314,
+          "stop" : 1600455309988,
+          "duration" : 1674
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "Atendimento aos domingos" ]
+      } ],
+      "uid" : "99a35f027d328067aad4703716a90eea"
+    } ],
+    "uid" : "ce9fab5cbc7fd2a94c389050a2291d0b"
+  } ]
+}

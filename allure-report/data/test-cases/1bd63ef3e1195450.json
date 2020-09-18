@@ -1,0 +1,232 @@
+{
+  "uid" : "1bd63ef3e1195450",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#6)",
+  "fullName" : "Busca por unidade: Busca por unidade utilizando o filtro por facilidade, Examples (#6)",
+  "historyId" : "e6cbc74a32ab526c028f506da338c287",
+  "time" : {
+    "start" : 1600455306459,
+    "stop" : 1600455308313,
+    "duration" : 1854
+  },
+  "description" : "Location - features/requirements/busca_por_unidade.feature:28:13",
+  "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:28:13",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "cucumber.rb:14",
+    "time" : {
+      "start" : 1600455306460,
+      "stop" : 1600455306460,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "cucumber.rb:22",
+    "time" : {
+      "start" : 1600455306460,
+      "stop" : 1600455306460,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "hooks.rb:1",
+    "time" : {
+      "start" : 1600455306460,
+      "stop" : 1600455306565,
+      "duration" : 105
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Location - features/requirements/busca_por_unidade.feature:28:13",
+    "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:28:13",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Dado que \"Lucas\" acessou a aba de unidades atráves da página principal",
+      "time" : {
+        "start" : 1600455306565,
+        "stop" : 1600455307176,
+        "duration" : 611
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "E ele utiliza o filtro por facilidade selecionando os seguintes itens:",
+      "time" : {
+        "start" : 1600455307176,
+        "stop" : 1600455307952,
+        "duration" : 776
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "86582e99e3807923",
+        "name" : "data-table",
+        "source" : "86582e99e3807923.csv",
+        "type" : "text/csv",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Quando ele seleciona a opção de Ver Detalhes da primeira unidade apresentada",
+      "time" : {
+        "start" : 1600455307952,
+        "stop" : 1600455308195,
+        "duration" : 243
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Então as mesmas informações apresentadas no card anterior devem ser apresentados",
+      "time" : {
+        "start" : 1600455308196,
+        "stop" : 1600455308220,
+        "duration" : 24
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "hooks.rb:6",
+    "time" : {
+      "start" : 1600455308220,
+      "stop" : 1600455308224,
+      "duration" : 4
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "cucumber.rb:10",
+    "time" : {
+      "start" : 1600455308224,
+      "stop" : 1600455308313,
+      "duration" : 89
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "cucumber"
+  }, {
+    "name" : "feature",
+    "value" : "Busca por unidade"
+  }, {
+    "name" : "package",
+    "value" : "requirements"
+  }, {
+    "name" : "suite",
+    "value" : "Busca por unidade"
+  }, {
+    "name" : "story",
+    "value" : "Busca por unidade utilizando o filtro por facilidade, Examples (#6)"
+  }, {
+    "name" : "testClass",
+    "value" : "busca_por_unidade"
+  }, {
+    "name" : "tag",
+    "value" : "busca_por_unidade"
+  }, {
+    "name" : "tag",
+    "value" : "positivo"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "70277975433420"
+  }, {
+    "name" : "host",
+    "value" : "Diogos-MacBook-Pro.local"
+  }, {
+    "name" : "language",
+    "value" : "ruby"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "item1",
+    "value" : ""
+  }, {
+    "name" : "item2",
+    "value" : "Vacinação"
+  }, {
+    "name" : "item3",
+    "value" : ""
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "positivo", "busca_por_unidade" ]
+  },
+  "source" : "1bd63ef3e1195450.json",
+  "parameterValues" : [ "", "Vacinação", "" ]
+}

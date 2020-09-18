@@ -1,0 +1,71 @@
+[ {
+  "uid" : "be7d8eac4d64f461",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#2)",
+  "time" : {
+    "start" : 1600455297882,
+    "stop" : 1600455300076,
+    "duration" : 2194
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f7322313260a3ef",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#7)",
+  "time" : {
+    "start" : 1600455308314,
+    "stop" : 1600455309988,
+    "duration" : 1674
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7f497e5eff3d5f8",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#4)",
+  "time" : {
+    "start" : 1600455302822,
+    "stop" : 1600455304741,
+    "duration" : 1919
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1bd63ef3e1195450",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#6)",
+  "time" : {
+    "start" : 1600455306459,
+    "stop" : 1600455308313,
+    "duration" : 1854
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc13138443ff81b9",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#1)",
+  "time" : {
+    "start" : 1600455290076,
+    "stop" : 1600455297880,
+    "duration" : 7804
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd34a94c1725d96b",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#3)",
+  "time" : {
+    "start" : 1600455300077,
+    "stop" : 1600455302821,
+    "duration" : 2744
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "91118d1f6c099529",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#5)",
+  "time" : {
+    "start" : 1600455304742,
+    "stop" : 1600455306458,
+    "duration" : 1716
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
