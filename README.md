@@ -1,21 +1,26 @@
 # WebTest - Fleury
 
-This is a automated test project on Ruby language with Selenium Webdriver to automate web tests on Fleury applications.
-This project uses the Page Object Pattern, so it provides a cleaner and easier code do maintain.
+This is a automated test project on Ruby language with Selenium Webdriver to automate web tests.
+This project uses the Page Object Pattern, so it provides a cleaner and easier code to maintain.
 
 ## Getting Started
 
-These instructions below will get you a copy of the project up and running on your local machine.
+These instructions below will get you a copy of the project up and running on your local machine(MAC).
 
 ### Pre-requisites
 
 - The project requires Ruby 2.6.3 
 
 After Ruby is installed, you have to install the gem "bundler" by command line, so you can download all of the Ruby libraries with it:
+First: Access the WebTest file
 ```
 gem install bundle
 ```
 
+Install chromedriver
+```
+brew cask install chromedriver -> MAC
+```
 Also, you have to install binstubs, so, it generates the executable binary to execute the cucumber tests with ease on command line:
 ```
 bundle install --binstubs
@@ -41,8 +46,9 @@ Below are the main ways that you can do to run the tests with different configur
 ```
 cucumber --publish
 ```
+After that, open the link displayed on terminal "View your Cucumber Report at:"
 
-##Or
+###Or
 
 ```
 cucumber --format AllureCucumber::CucumberFormatter --out

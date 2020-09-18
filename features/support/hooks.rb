@@ -1,9 +1,10 @@
 Before do |scenario|
   @pages = PageFactory.new
-  @browser = Capybara.current_session.driver
-
+  @browser = Capybara.page.driver.browser
+  @browser.manage.window.maximize
 end
 
 After do
-  page.execute_script "window.close();"
+  #Descomentar/comentar a linha abaixo se você quiser que o browser feche e re-abra ao final de cada test
+  Capybara.current_session.driver.quit
 end
